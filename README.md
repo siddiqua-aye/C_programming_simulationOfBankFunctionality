@@ -1,6 +1,8 @@
 # C_programming_simulationOfBankFunctionality
 Simulation of Bank Functionality created using C-programming.
 
+![image](https://user-images.githubusercontent.com/82129736/118905136-27d39300-b8e9-11eb-9686-c9a1e9e53da3.png)
+
 ## Project Details
 
 File included: 
@@ -13,5 +15,3 @@ File included:
    3) type in: dir --> a new exe file named nameOfExe.exe should be created
    4) type in: nameOfExe
    5) The program should run successfully
-
-![image](https://user-images.githubusercontent.com/82129736/114055714-0188f500-985f-11eb-800f-07a21944e369.png)
